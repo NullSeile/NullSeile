@@ -1,6 +1,6 @@
 ## Lia's GitHub profile
 
-Hmmmmm, I guess I'm someone who codes stuff some times for fun.
+Hmmmmm, I guess I'm someone who codes stuff for fun some times.
 
 <!---
 NullSeile/NullSeile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
